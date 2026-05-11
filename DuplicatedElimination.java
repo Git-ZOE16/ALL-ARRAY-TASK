@@ -16,7 +16,7 @@ int userInput = input.nextInt();
 
     int count = 0; 
 
-    for(count = 10; count < numbers.length; count++){
+    for (int count = arr.length - 1; i >= 0; i--) {
     
     System.out.println()
     
